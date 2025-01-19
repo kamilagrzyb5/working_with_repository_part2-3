@@ -1,4 +1,4 @@
-# Moj opis
+*# Moj opis
 jestem studentką
 # Moje hobby
 - pływanie
