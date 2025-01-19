@@ -1,4 +1,4 @@
-# Moj opis
+# Moj opis lorem ipsum
 jestem studentką
 # Moje hobby
 - pływanie
